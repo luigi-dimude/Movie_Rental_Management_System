@@ -1,5 +1,5 @@
 # Movie_Rental_Management_System
-Developed a multi form (windows form) movie rental management system that allows customers to rent different categories of movies and allows the business to manage and store movies through an inventory maintenance system
+Developed a multi form (windows form) movie rental management system that allows customers to rent different categories of movies and allows the business to manage and store movies in a database through an inventory maintenance system
 
 ![image](https://user-images.githubusercontent.com/33835722/135769706-faafd8a3-905e-4721-848c-304e5a1b1eb0.png)
 
