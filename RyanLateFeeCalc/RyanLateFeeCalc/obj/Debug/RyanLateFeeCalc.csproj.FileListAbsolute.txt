@@ -1,0 +1,16 @@
+C:\Users\Luigi Dimude\Desktop\c#\RyanLateFeeCalc\RyanLateFeeCalc\obj\Debug\RyanLateFeeCalc.csprojAssemblyReference.cache
+C:\Users\Luigi Dimude\Desktop\c#\RyanLateFeeCalc\RyanLateFeeCalc\obj\Debug\RyanLateFeeCalc.frmMenu.resources
+C:\Users\Luigi Dimude\Desktop\c#\RyanLateFeeCalc\RyanLateFeeCalc\obj\Debug\RyanLateFeeCalc.frmNew.resources
+C:\Users\Luigi Dimude\Desktop\c#\RyanLateFeeCalc\RyanLateFeeCalc\obj\Debug\RyanLateFeeCalc.Properties.Resources.resources
+C:\Users\Luigi Dimude\Desktop\c#\RyanLateFeeCalc\RyanLateFeeCalc\obj\Debug\RyanLateFeeCalc.csproj.GenerateResource.cache
+C:\Users\Luigi Dimude\Desktop\c#\RyanLateFeeCalc\RyanLateFeeCalc\obj\Debug\RyanLateFeeCalc.csproj.CoreCompileInputs.cache
+C:\Users\Luigi Dimude\Desktop\c#\RyanLateFeeCalc\RyanLateFeeCalc\bin\Debug\RyanLateFeeCalc.exe.config
+C:\Users\Luigi Dimude\Desktop\c#\RyanLateFeeCalc\RyanLateFeeCalc\bin\Debug\RyanLateFeeCalc.exe
+C:\Users\Luigi Dimude\Desktop\c#\RyanLateFeeCalc\RyanLateFeeCalc\bin\Debug\RyanLateFeeCalc.pdb
+C:\Users\Luigi Dimude\Desktop\c#\RyanLateFeeCalc\RyanLateFeeCalc\obj\Debug\RyanLateFeeCalc.frmKids.resources
+C:\Users\Luigi Dimude\Desktop\c#\RyanLateFeeCalc\RyanLateFeeCalc\obj\Debug\RyanLateFeeCalc.frmLibrary.resources
+C:\Users\Luigi Dimude\Desktop\c#\RyanLateFeeCalc\RyanLateFeeCalc\obj\Debug\RyanLateFeeCalc.exe
+C:\Users\Luigi Dimude\Desktop\c#\RyanLateFeeCalc\RyanLateFeeCalc\obj\Debug\RyanLateFeeCalc.pdb
+C:\Users\Luigi Dimude\Desktop\c#\RyanLateFeeCalc\RyanLateFeeCalc\obj\Debug\RyanLateFeeCalc.frmLateFilms.resources
+C:\Users\Luigi Dimude\Desktop\c#\RyanLateFeeCalc\RyanLateFeeCalc\obj\Debug\RyanLateFeeCalc.frmMaintenance.resources
+C:\Users\Luigi Dimude\Desktop\c#\RyanLateFeeCalc\RyanLateFeeCalc\obj\Debug\RyanLateFeeCalc.NewMovie.resources
