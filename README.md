@@ -11,12 +11,5 @@ Developed a multi form (windows form) movie rental management system that allows
 
 ![image](https://user-images.githubusercontent.com/33835722/135769806-a0ff83c0-ad21-4823-b41f-4417c4ccd32d.png)
 
-# some code
-![image](https://user-images.githubusercontent.com/33835722/135773237-3a814eb1-f58e-4473-abf8-12dfb8b19f07.png)
-![image](https://user-images.githubusercontent.com/33835722/135773240-4903b7e0-7034-477d-b42e-dd54cc8b622c.png)
-
-#-----------------
-
-![image](https://user-images.githubusercontent.com/33835722/135773256-46aa8b6a-c7e1-4ce3-bb63-992074d2ff6e.png)
 
 
